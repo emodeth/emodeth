@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Istanbul, Turkey
-*   🧠  I am studying Software Engineering in the Aydin Universtiy
+*   🧠  I am studying Software Engineering at the Aydin Universtiy
 *   🌱  Currently learning React
 
 ### Skills
@@ -18,4 +18,4 @@ I am Front End developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/emodethh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
