@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Istanbul, Turkey
+*   🌍  I am based in Istanbul, Turkey
 *   🧠  I am studying Software Engineering at the Istanbul Aydin University
 *   🌱  Currently learning React
 
