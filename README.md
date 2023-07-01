@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Istanbul, Turkey
-*   🧠  I am studying Software Engineering at the Aydin Universtiy
+*   🧠  I am studying Software Engineering at the Istanbul Aydin University
 *   🌱  Currently learning React
 
 ### Skills
