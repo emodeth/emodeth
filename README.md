@@ -1,38 +1,64 @@
-# Emirhan Keskin
-**Frontend Software Developer** | Istanbul, Türkiye
+<h1 data-importer="text" align="left">Emirhan Keskin</h1>
 
-I am a frontend developer specializing in building structured, high-performance web and mobile applications. Currently completing my Software Engineering degree at Istanbul Aydın University, I focus on engineering clean user interfaces, secure authentication flows, and scalable architectures.
+###
 
----
+<p data-importer="text" align="left">Software Engineer specializing in Frontend Development from Istanbul, Türkiye</p>
 
-### Technical Expertise
+###
 
-*   **Languages:** TypeScript, JavaScript, HTML, CSS/SCSS
-*   **Frameworks & Libraries:** React, Next.js, React Native, Vite, Tailwind CSS, Zustand, TanStack Query, shadcn/ui
-*   **Backend & Database:** Node.js, PostgreSQL, Prisma ORM, Supabase, Sanity CMS
-*   **Infrastructure & Tools:** Git, Docker, AWS (Elastic Beanstalk, S3, CloudFront), Vercel
+<h2 data-importer="text" align="left">About me</h2>
 
-### Professional Experience
+###
 
-**Frontend Developer | SirDash.ai** 
-*Berlin, Germany (Remote) • Feb 2026 – Present*
-*   Develop and optimize enterprise landing pages and core platform features using Vite and Tailwind CSS.
-*   Integrate Supabase for secure user onboarding and engineer admin panel features for product release management.
-*   Manage application deployments and global content delivery utilizing AWS Elastic Beanstalk and CloudFront.
+<p data-importer="text" align="left">Software Engineer with a specialized focus on frontend development and modern web architecture. I leverage technologies like React, Next.js, and TypeScript to engineer clean, high-performance applications. My core focus lies in building secure, scalable systems while maintaining a strict standard for minimalist, user-centric design.</p>
 
-**Frontend Developer | Stork**
-*Istanbul, Türkiye • Sep 2024 – Sep 2025*
-*   Architected the migration of a legacy e-commerce codebase from JavaScript to TypeScript, significantly improving type safety.
-*   Engineered a cross-platform mobile shopping application using React Native.
-*   Modernized styling architecture by transitioning from vanilla CSS to Tailwind CSS to ensure UI consistency.
+###
 
-### Selected Works
+<h2 data-importer="text" align="left">Tech Stack</h2>
 
-*   **[Gemfolders](#):** A specialized browser extension that injects a native-feeling sidebar directory, local-first storage, and search system into the Gemini interface.
-*   **[Yournal](#):** A data-driven personal efficiency application featuring a rich-text editor and metrics dashboards for monitoring well-being.
-*   **[Project Selector](#):** An automated, web-based utility designed to coordinate course allocations and streamline project grading workflows for university lecturers.
-*   **[Revita Luxury](#):** A high-end corporate catalog website built for a premium medical aesthetics distributor.
+###
 
-### Contact & Links
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/emirhan-keskin-99854b215/) • [Portfolio Website](https://www.emirhankeskin.dev/) • [emirhankeskindev@gmail.com](mailto:emirhankeskindev@gmail.com)
+###
+
+<h2 data-importer="text" align="left">My Projects</h2>
+
+###
+
+*   **[Gemfolders](https://www.gemfolders.com/):** A browser extension to boost productivity in Gemini. The folder feature that the Gemini is missing. Implemented local-first storage, Supabase authentication, and subscription management via Polar.sh.
+*   **[Project Selector](https://www.emirhankeskin.dev/projects/project-selector):** Web-based platform to digitize the project selection process for students and management of projects for lecturers for Istanbul Aydin University. Replacing inefficient and time consuming manual workflows.
+*   **[Revita Luxury](https://www.emirhankeskin.dev/projects/revita):** A high-end e-corporate website for Revita Luxury, a Spain-based medical aesthetics distributor, focusing on a premium user experience for healthcare professionals sourcing dermal fillers and medical devices.
+*   **Yournal:** A productivity-focused journaling application featuring a Notion-inspired rich-text editor and an intuitive tracking system, enabling users to monitor mental well-being and personal efficiency through data-driven insights
+
+<h2 data-importer="text" align="left">Contact</h2>
+
+###
+
+*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/emirhan-keskin-99854b215/)
+*   **Portfolio:** [Check out my work](https://www.emirhankeskin.dev/)
+*   **Email:** [Send me an email](mailto:emirhankeskindev@gmail.com)
