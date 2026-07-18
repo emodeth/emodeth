@@ -46,19 +46,10 @@
 
 ###
 
-<h2 data-importer="text" align="left">My Projects</h2>
-
-###
-
-*   **[Gemfolders](https://www.gemfolders.com/):** A browser extension to boost productivity in Gemini. The folder feature that the Gemini is missing. Implemented local-first storage, Supabase authentication, and subscription management via Polar.sh.
-*   **[Project Selector](https://www.emirhankeskin.dev/projects/project-selector):** Web-based platform to digitize the project selection process for students and management of projects for lecturers for Istanbul Aydin University. Replacing inefficient and time consuming manual workflows.
-*   **[Revita Luxury](https://www.emirhankeskin.dev/projects/revita):** A high-end e-corporate website for Revita Luxury, a Spain-based medical aesthetics distributor, focusing on a premium user experience for healthcare professionals sourcing dermal fillers and medical devices.
-*   **Yournal:** A productivity-focused journaling application featuring a Notion-inspired rich-text editor and an intuitive tracking system, enabling users to monitor mental well-being and personal efficiency through data-driven insights
-
 <h2 data-importer="text" align="left">Contact</h2>
 
 ###
 
-*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/emirhan-keskin-99854b215/)
 *   **Portfolio:** [Check out my work](https://www.emirhankeskin.dev/)
+*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/emirhan-keskin-99854b215/)
 *   **Email:** [Send me an email](mailto:emirhankeskindev@gmail.com)
